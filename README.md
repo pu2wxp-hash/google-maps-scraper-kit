@@ -1,5 +1,10 @@
 # Google Maps Scraper Kit
 
+<!-- cerebro -->
+> **Projeto no cofre Obsidian `cerebro`** ([pu2wxp-hash/cerebro](https://github.com/pu2wxp-hash/cerebro)): `01 Projetos/Scraper Maps/Scraper Maps.md`. Lá ficam o estado, o ponto de retomada, as decisões e as pendências deste repositório. Ao concluir uma etapa ou decisão aqui, atualize também a nota do projeto no cofre.
+<!-- /cerebro -->
+
+
 <p align="center">
   <img src="assets/banner.svg" alt="Google Maps Scraper Kit — run a free Google Maps scraper locally, let Claude drive it on autopilot" width="100%">
 </p>
